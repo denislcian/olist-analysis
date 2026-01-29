@@ -33,7 +33,9 @@ El proyecto está desacoplado mediante un motor lógico (`src/engine.py`) que ge
 ---
 🧠 Modelado Matemático
 
-Se aplicó normalización Z-Score para garantizar la convergencia del algoritmo:$$z = \frac{(x - \mu)}{\sigma}$$La determinación de clusters óptimos se realizó mediante el Método del Codo (Elbow Method), optimizando la Suma de Cuadrados Intra-Cluster (WCSS).
+Se aplicó normalización Z-Score para garantizar la convergencia del algoritmo:
+$$z = \frac{(x - \mu)}{\sigma}$$
+La determinación de clusters óptimos se realizó mediante el Método del Codo (Elbow Method), optimizando la Suma de Cuadrados Intra-Cluster (WCSS).
 
 Desarrollado por Denis Lucian con IA Generativa (Gemini)
 
