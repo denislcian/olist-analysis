@@ -1,4 +1,4 @@
-# Olist Customer Analysis & Segmentation 📊
+# 📊 Olist Customer Analysis & Segmentation 
 
 Este repositorio contiene un framework integral de **Inteligencia de Clientes** aplicado al dataset de Olist E-commerce. El proyecto utiliza técnicas de **Machine Learning No Supervisado** para segmentar la base de usuarios y automatizar la toma de decisiones estratégicas.
 
@@ -17,6 +17,8 @@ Este repositorio contiene un framework integral de **Inteligencia de Clientes** 
 
 ## 🏗️ Arquitectura
 El proyecto está desacoplado mediante un motor lógico (`src/engine.py`) que gestiona las operaciones pesadas de datos, permitiendo que la interfaz (`app.py`) se mantenga ligera y eficiente mediante el uso de **caching**.
+
+El análisis completo se realiza en el notebook, (`notebooks/olist-segmentation.py`).
 
 ## 🚀 Instalación y Uso
 
